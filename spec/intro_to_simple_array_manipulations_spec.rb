@@ -28,7 +28,7 @@ end
 
 describe "using_pop" do
   before(:each) do 
-    @continents "Chihuahua", "Shiba Inu"]
+    @continents ["Chihuahua", "Shiba Inu"]
     @deleted_string = using_pop(@continents)
   end
   it "takes in argument of an array and uses the pop method to remove the last element from the array and return that element" do 
