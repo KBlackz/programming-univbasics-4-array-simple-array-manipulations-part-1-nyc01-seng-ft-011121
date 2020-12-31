@@ -12,4 +12,5 @@ end
 def using_pop(array)
     puts array 
     array.pop
+    array
 end
