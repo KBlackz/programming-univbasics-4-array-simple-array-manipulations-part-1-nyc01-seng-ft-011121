@@ -9,9 +9,4 @@ def using_unshift(array, string)
   
 end
 
-def using_pop(array)
-  used_car = ["paul"]
-  used_car.pop
-  
-end
 
