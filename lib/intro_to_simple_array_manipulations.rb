@@ -10,7 +10,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-    array_new = ["Chihuahua", "Antarctica"]
-    array_new.pop
+    
+    array.pop
     
 end
